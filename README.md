@@ -9,8 +9,10 @@ Operating System- Windows 10
 
 To run the project:
 >npm install
+
 For FronTend:
 >npm start
+
 For Backend:
 >node FileName
 
