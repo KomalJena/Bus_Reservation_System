@@ -7,3 +7,15 @@ Database - MongoDB
 Tools - Visual Studio Code
 Operating System- Windows 10
 
+To run the project:
+>npm install
+For FronTend:
+>npm start
+For Backend:
+>node FileName
+
+npm start will take you to localhost:3000, A signup page will be open.
+The SignUp Page Data is getting Stored into localstoge (You can View in browser Inspect->Application->localstorage)
+The bus data than merged into mongodb storage where you can find the data stored in mongodb cloud storage.
+
+
